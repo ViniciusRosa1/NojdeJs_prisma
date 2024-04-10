@@ -1,4 +1,4 @@
-# Base limpa de API em Node
+# Base API em Node usando prisma
 
 Este repositório serve exclusivamente para oferecer uma base rápida para criação de APIs em Node.
 
